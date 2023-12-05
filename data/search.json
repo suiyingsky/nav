@@ -54,7 +54,7 @@
   {
     "name": "云端花园",
     "url": "https://huayuan00.com/search?keyword=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/douban.svg",
+    "icon": "https://cdn.jsdelivr.net/gh/suiyingsky/nav@image/nav-1701794076375-png.png",
     "placeholder": "云端花园搜索",
     "blocked": false,
     "isInner": false
