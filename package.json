@@ -3,13 +3,13 @@
   "version": "7.0.0",
   "author": "xiejiahe",
   "bugs": {
-    "url": "https://github.com/xjh22222228/nav/issues"
+    "url": "https://github.com/suiyingsky/nav/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xjh22222228/nav.git"
+    "url": "git+https://github.com/suiyingsky/nav.git"
   },
-  "homepage": "https://github.com/xjh22222228/nav",
+  "homepage": "https://github.com/suiyingsky/nav",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --port=7001",

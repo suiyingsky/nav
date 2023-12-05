@@ -1,6 +1,6 @@
 // @ts-nocheck
 // Copyright @ 2018-present xiejiahe. All rights reserved. MIT license.
-// See https://github.com/xjh22222228/nav
+// See https://github.com/suiyingsky/nav
 
 import { Component } from '@angular/core'
 import { Router, ActivatedRoute } from '@angular/router'
@@ -74,7 +74,7 @@ export default class LightComponent {
   handleSidebarNav(index: number) {
     const { page } = queryString()
     this.websiteList[page].id = index
-    this.router.navigate([this.router.url.split('?')[0]], { 
+    this.router.navigate([this.router.url.split('?')[0]], {
       queryParams: {
         page,
         id: index,

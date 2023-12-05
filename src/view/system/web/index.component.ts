@@ -1,6 +1,6 @@
 // @ts-nocheck
 // Copyright @ 2018-present xiejiahe. All rights reserved. MIT license.
-// See https://github.com/xjh22222228/nav
+// See https://github.com/suiyingsky/nav
 
 import { Component } from '@angular/core'
 import { CdkDragDrop, moveItemInArray } from '@angular/cdk/drag-drop'
@@ -424,7 +424,7 @@ export default class WebpComponent {
           this.websiteList[this.editIdx].ownVisible = ownVisible
         }
           break
-  
+
         // 编辑二级分类
         case 1: {
           this.twoTableData[this.editIdx].title = title
@@ -432,7 +432,7 @@ export default class WebpComponent {
           this.twoTableData[this.editIdx].ownVisible = ownVisible
         }
           break
-  
+
         // 编辑三级分类
         case 2: {
           this.threeTableData[this.editIdx].title = title
@@ -451,7 +451,7 @@ export default class WebpComponent {
           if (exists) {
             return this.message.error($t('_repeatAdd'))
           }
-  
+
           this.websiteList.unshift({
             createdAt,
             title,
@@ -461,14 +461,14 @@ export default class WebpComponent {
           })
         }
           break
-  
+
         // 新增二级分类
         case 1: {
           const exists = this.twoTableData.some(item => item.title === title)
           if (exists) {
             return this.message.error($t('_repeatAdd'))
           }
-  
+
           this.twoTableData.unshift({
             createdAt,
             title,
@@ -478,14 +478,14 @@ export default class WebpComponent {
           })
         }
           break
-  
+
         // 新增三级分类
         case 2: {
           const exists = this.threeTableData.some(item => item.title === title)
           if (exists) {
             return this.message.error($t('_repeatAdd'))
           }
-  
+
           this.threeTableData.unshift({
             createdAt,
             title,

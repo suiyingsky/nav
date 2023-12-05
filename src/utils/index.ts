@@ -1,6 +1,6 @@
 // @ts-nocheck
 // Copyright @ 2018-present xiejiahe. All rights reserved. MIT license.
-// See https://github.com/xjh22222228/nav
+// See https://github.com/suiyingsky/nav
 
 import qs from 'qs'
 import Clipboard from 'clipboard'
@@ -75,7 +75,7 @@ export function fuzzySearch(navList: INavProps[], keyword: string): INavThreePro
               return true
             }
           }
-  
+
           const find = urls.some((item: string) => item.includes(keyword))
           if (find) {
             if (!urlRecordMap[item.url]) {
@@ -392,7 +392,7 @@ export async function getLogoUrl(url: string): Promise<boolean|string|null> {
         } catch (error) {
           resolve(false)
         }
-      }) 
+      })
     })
 
     const all = await Promise.all<any>(promises)
@@ -401,7 +401,7 @@ export async function getLogoUrl(url: string): Promise<boolean|string|null> {
         return all[i]
       }
     }
-    
+
   } catch {
     return null
   }
@@ -420,7 +420,7 @@ export function copyText(el: Event, text: string): Promise<boolean> {
       clipboard.destroy()
       resolve(true)
     });
-  
+
     clipboard.on('error', function() {
       clipboard.destroy()
       resolve(false)

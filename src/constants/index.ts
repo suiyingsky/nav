@@ -1,5 +1,5 @@
 // Copyright @ 2018-present xiejiahe. All rights reserved. MIT license.
-// See https://github.com/xjh22222228/nav
+// See https://github.com/suiyingsky/nav
 
 import { getCDN } from '../services'
 

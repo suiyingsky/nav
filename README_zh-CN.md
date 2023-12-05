@@ -1,10 +1,10 @@
 
 <p align="center">
-  <a href="https://nav3.cn/?g">
+  <a href="https://nav.huayuan00.cn/?g">
     <img src="src/assets/logo.png" width="130" />
   </a>
   <br />
-  <b>发现导航</b>
+  <b>花园导航</b>
   <p align="center">一个纯静态、支持SEO、在线编辑的强大导航网站，希望您会喜欢</p>
   <p align="center">内置收录多达 800+ 优质网站， 助您工作、学习和生活</p>
   <p align="center">
@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/lang-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg?longCache=true&style=flat-square">
     </a>
     <img src="https://img.shields.io/github/v/release/xjh22222228/nav" />
-    <a href="https://github.com/xjh22222228/nav/stargazers"><img src="https://img.shields.io/github/stars/xjh22222228/nav" alt="Stars"/></a>
+    <a href="https://github.com/suiyingsky/nav/stargazers"><img src="https://img.shields.io/github/stars/xjh22222228/nav" alt="Stars"/></a>
     <img alt="Angular" src="https://img.shields.io/static/v1.svg?label=&message=Angular11&style=flat-square&color=C82B38">
     <img src="https://img.shields.io/github/license/xjh22222228/nav" />
   </p>
@@ -25,10 +25,10 @@
 ## 预览
 **主题**
 
-- [Sim 在线预览](https://nav3.cn/#/sim)
-- [Light 在线预览](https://nav3.cn/#/light)
-- [Side 在线预览](https://nav3.cn/#/side)
-- [App 在线预览](https://nav3.cn/#/app)
+- [Sim 在线预览](https://nav.huayuan00.cn/#/sim)
+- [Light 在线预览](https://nav.huayuan00.cn/#/light)
+- [Side 在线预览](https://nav.huayuan00.cn/#/side)
+- [App 在线预览](https://nav.huayuan00.cn/#/app)
 
 ![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/1.png)
 ![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/2.png)
@@ -42,7 +42,7 @@
 
 
 ## 特性
-`发现导航` 的理念就是做一款无需依赖后端服务既简单又方便，没有繁杂的配置和数据库等配置概念, 做到开箱即用。
+`花园导航` 的理念就是做一款无需依赖后端服务既简单又方便，没有繁杂的配置和数据库等配置概念, 做到开箱即用。
 
 - 🍰 内置 `800+` 实用网站。
 - 🍰 支持 SEO。
@@ -96,7 +96,7 @@
 
 
 ## 后台
-将路由地址修改为 `system` 即可进入，如: https://www.nav3.cn/#/light 修改为 https://www.nav3.cn/#/system
+将路由地址修改为 `system` 即可进入，如: https://www.nav.huayuan00.cn/#/light 修改为 https://www.nav.huayuan00.cn/#/system
 
 
 ## 书签导入
@@ -116,7 +116,7 @@
 
 
 ## 更新日志
-[CHANGELOG](https://github.com/xjh22222228/nav/releases)
+[CHANGELOG](https://github.com/suiyingsky/nav/releases)
 
 
 
@@ -127,7 +127,7 @@
 NODE: v18
 ``` bash
 # 下载
-git clone --depth=1 https://github.com/xjh22222228/nav.git
+git clone --depth=1 https://github.com/suiyingsky/nav.git
 
 cd nav
 
@@ -144,7 +144,7 @@ yarn build
 
 
 ## 贡献
-Thank you for your [contribution](https://github.com/xjh22222228/nav/issues), men.
+Thank you for your [contribution](https://github.com/suiyingsky/nav/issues), men.
 
 <a href="https://github.com/YutHelloWorld">
   <img src="https://avatars1.githubusercontent.com/u/20860159?s=460&v=4" width="30px" height="30px" />
@@ -165,7 +165,7 @@ Thank you for your [contribution](https://github.com/xjh22222228/nav/issues), me
 
 
 ## 建议
-如果有任何功能上的建议可通过 [issue](https://github.com/xjh22222228/nav/issues) 发起, Thank you.
+如果有任何功能上的建议可通过 [issue](https://github.com/suiyingsky/nav/issues) 发起, Thank you.
 
 
 

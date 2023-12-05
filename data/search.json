@@ -50,5 +50,13 @@
     "placeholder": "书名、作者、ISBN",
     "blocked": false,
     "isInner": false
+  },
+  {
+    "name": "云端花园",
+    "url": "https://huayuan00.com/search?keyword=",
+    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/douban.svg",
+    "placeholder": "云端花园搜索",
+    "blocked": false,
+    "isInner": false
   }
 ]

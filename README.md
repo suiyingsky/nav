@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://nav3.cn/?g">
+  <a href="https://nav.huayuan00.cn/?g">
     <img src="src/assets/logo.png" width="130" />
   </a>
   <br />
@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/lang-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg?longCache=true&style=flat-square">
     </a>
     <img src="https://img.shields.io/github/v/release/xjh22222228/nav" />
-    <a href="https://github.com/xjh22222228/nav/stargazers"><img src="https://img.shields.io/github/stars/xjh22222228/nav" alt="Stars"/></a>
+    <a href="https://github.com/suiyingsky/nav/stargazers"><img src="https://img.shields.io/github/stars/xjh22222228/nav" alt="Stars"/></a>
     <img alt="Angular" src="https://img.shields.io/static/v1.svg?label=&message=Angular11&style=flat-square&color=C82B38">
     <img src="https://img.shields.io/github/license/xjh22222228/nav" />
   </p>
@@ -25,10 +25,10 @@
 ## Preview
 **Themes**
 
-- [Sim online preview](https://nav3.cn/#/sim)
-- [Light online preview](https://nav3.cn/#/light)
-- [Side online preview](https://nav3.cn/#/side)
-- [App online preview](https://nav3.cn/#/app)
+- [Sim online preview](https://nav.huayuan00.cn/#/sim)
+- [Light online preview](https://nav.huayuan00.cn/#/light)
+- [Side online preview](https://nav.huayuan00.cn/#/side)
+- [App online preview](https://nav.huayuan00.cn/#/app)
 
 ![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/1.png)
 ![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/2.png)
@@ -93,7 +93,7 @@ For specific use, follow the steps [https://github.com/apps/vercel](https://gith
 
 
 ## Backstage
-Modify the routing address to `system`, such as: https://www.nav3.cn/#/light Change to https://www.nav3.cn/#/system
+Modify the routing address to `system`, such as: https://www.nav.huayuan00.cn/#/light Change to https://www.nav.huayuan00.cn/#/system
 
 
 ## Bookmark import
@@ -113,7 +113,7 @@ Click the `Watch` button in the upper right corner to track the version upgrade 
 
 
 ## Update log
-[CHANGELOG](https://github.com/xjh22222228/nav/releases)
+[CHANGELOG](https://github.com/suiyingsky/nav/releases)
 
 
 
@@ -124,7 +124,7 @@ Click the `Watch` button in the upper right corner to track the version upgrade 
 NODE: v18
 ``` bash
 # Download
-git clone --depth=1 https://github.com/xjh22222228/nav.git
+git clone --depth=1 https://github.com/suiyingsky/nav.git
 
 cd nav
 
@@ -141,7 +141,7 @@ yarn build
 
 
 ## contribute
-Thank you for your [contribution](https://github.com/xjh22222228/nav/issues), men.
+Thank you for your [contribution](https://github.com/suiyingsky/nav/issues), men.
 
 <a href="https://github.com/YutHelloWorld">
   <img src="https://avatars1.githubusercontent.com/u/20860159?s=460&v=4" width="30px" height="30px" />
@@ -162,7 +162,7 @@ Thank you for your [contribution](https://github.com/xjh22222228/nav/issues), me
 
 
 ## Suggest
-If you have any functional suggestions, you can initiate an [issue](https://github.com/xjh22222228/nav/issues), Thank you.
+If you have any functional suggestions, you can initiate an [issue](https://github.com/suiyingsky/nav/issues), Thank you.
 
 ## LICENSE
 [MIT](./LICENSE)
