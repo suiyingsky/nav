@@ -1,5 +1,5 @@
 {
-  "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
+  "favicon": "https://cdn.jsdelivr.net/gh/suiyingsky/nav@image/nav-1701864269693-微信图片_20231206200230.png",
   "homeUrl": "https://nav.huayuan00.com",
   "language": "zh-CN",
   "loading": "loading2",
@@ -10,7 +10,7 @@
   "theme": "Light",
   "appTheme": "App",
   "headerContent": "",
-  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-present nav.huayuan00.cn, All Rights Reserved</div>",
+  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-present <a href=\"https://huayuan00.com\" target=\"_blank\">huayuan00.com</a>, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
   "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?c06ea634a01ace8954d4e7c9216b1db1",
   "cnzzStatisticsUrl": "",
