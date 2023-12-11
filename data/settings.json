@@ -3,7 +3,7 @@
   "homeUrl": "https://nav.huayuan00.com",
   "language": "zh-CN",
   "loading": "loading2",
-  "showGithub": true,
+  "showGithub": false,
   "title": "花园导航 - 精选实用导航网站",
   "description": "花园导航 - 精选实用导航网站",
   "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
